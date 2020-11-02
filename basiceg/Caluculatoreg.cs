@@ -5,7 +5,7 @@ namespace basiceg
 {
     class Caluculatoreg
     {
-        float num1 = 80, num2 = 30, result;
+        float num1 = 100, num2 = 40, result;
         void Add()
         {
             result = num1 + num2;
