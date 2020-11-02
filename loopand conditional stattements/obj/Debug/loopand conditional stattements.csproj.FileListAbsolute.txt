@@ -1,0 +1,7 @@
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\day1\firstapplication\loopand conditional stattements\obj\Debug\loopand conditional stattements.csprojAssemblyReference.cache
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\day1\firstapplication\loopand conditional stattements\obj\Debug\loopand conditional stattements.csproj.CoreCompileInputs.cache
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\day1\firstapplication\loopand conditional stattements\bin\Debug\loopand conditional stattements.exe.config
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\day1\firstapplication\loopand conditional stattements\bin\Debug\loopand conditional stattements.exe
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\day1\firstapplication\loopand conditional stattements\bin\Debug\loopand conditional stattements.pdb
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\day1\firstapplication\loopand conditional stattements\obj\Debug\loopand conditional stattements.exe
+C:\Users\Singam\OneDrive\Desktop\TRAINING\.net\day1\firstapplication\loopand conditional stattements\obj\Debug\loopand conditional stattements.pdb
